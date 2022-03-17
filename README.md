@@ -1,5 +1,5 @@
  @NotsoFrostyy
-
-- 🌱 I’m currently learning python/C#
+-Learnt Python
+- 🌱Learning C#, HTML and JS
 
 NotsoFrostyy/NotsoFrostyy 
