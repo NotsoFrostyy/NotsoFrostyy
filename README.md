@@ -12,4 +12,4 @@ feel free to look at some of my repositories 🎉
 ---
 
 ### :fire: My Stats:
-![NotsoFrostyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotsoFrostyy&show_icons=true&theme=radical)
+![NotsoFrostyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotsoFrostyy&show_icons=true&theme=tokyonight)
