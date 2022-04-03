@@ -1,6 +1,4 @@
-Hello 👋 im @notsofrostyy 😄
-
-I develop random python projects that I would use on a daily basis, I also have a website at https://NotsoFrostyy.github.io
+Hello 👋 im @notsofrostyy 😄, I develop random python projects that I would use on a daily basis, I also have a website at https://NotsoFrostyy.github.io
 feel free to look at some of my repositories 🎉
 ---
 
