@@ -15,5 +15,5 @@ and discord server at https://discord.gg/hEueWAbQk4 feel free to look at some of
 ---
 
 ### :fire: My Stats:
-![NotsoFrostyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotsoFrostyy&show_icons=true&theme=tokyonight&hide=contribs,contributions)
+![NotsoFrostyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotsoFrostyy&show_icons=true&theme=radical&hide=contribs,contributions)
 ![NotsoFrostyy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotsoFrostyy&layout=compact&theme=radical)
